@@ -1,0 +1,5 @@
+{
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "Add a semicolon at the end of every statement": true
+}
