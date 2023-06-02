@@ -1,7 +1,8 @@
-**GUESS MY NUMBER**
+# **GUESS MY NUMBER**
 
 
 **Description**
+
 Guess My Number is a web-game that can be played between numerous friends, where they attempt at guessing rounds to get the select Random number selected by the Porcessor at random.
 
 **Technologies**
