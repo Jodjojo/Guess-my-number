@@ -1,5 +1,12 @@
 # **GUESS MY NUMBER GAME**
 
+## **TABLE OF CONTENT**
+Description
+Technologies
+Installation
+Features
+Contributing
+
 
 ## **Description**
 
