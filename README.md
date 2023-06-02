@@ -13,7 +13,7 @@ Guess My Number is a web-game that can be played between numerous friends, where
 
 ## **Installation**
 
-This web-game does not require any isntallation as it is hosted on the internet and can be ran easily over the browser.
+This web-game does not require any installation as it is hosted on the internet and can be ran easily over the browser.
 
 ## **Features**
 
